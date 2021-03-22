@@ -14,5 +14,9 @@
 
 }
 
-
+.app-wrapper-content {
+    grid-area: c;
+    background-color: rgb(73, 188, 233);
+  
+}
 
